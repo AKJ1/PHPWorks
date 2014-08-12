@@ -1,0 +1,4 @@
+{	
+	"shell":true,
+	"cmd": ["cp", "$file", "C:\\Progra~1\\xampp\\htdocs\\mahSite", "&", "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe", "127.0.0.1/mahSite/$file_name"]
+}
